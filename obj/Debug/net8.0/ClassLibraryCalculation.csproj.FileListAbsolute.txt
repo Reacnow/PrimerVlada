@@ -1,0 +1,11 @@
+D:\ИСП22 А\ClassLibraryCalculation\bin\Debug\net8.0\ClassLibraryCalculation.deps.json
+D:\ИСП22 А\ClassLibraryCalculation\bin\Debug\net8.0\ClassLibraryCalculation.dll
+D:\ИСП22 А\ClassLibraryCalculation\bin\Debug\net8.0\ClassLibraryCalculation.pdb
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.AssemblyInfoInputs.cache
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.AssemblyInfo.cs
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.csproj.CoreCompileInputs.cache
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.dll
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\refint\ClassLibraryCalculation.dll
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ClassLibraryCalculation.pdb
+D:\ИСП22 А\ClassLibraryCalculation\obj\Debug\net8.0\ref\ClassLibraryCalculation.dll
